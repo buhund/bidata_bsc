@@ -1,0 +1,6 @@
+(
+{"_classDescription":{"_className":"Employee","_attributes":["public"]},"_methodName":"getAge","_attributes":["public"],"_argNames":[],"_argTypes":[],"_returnType":"int","offset":2246}
+(
+{"_classDescription":{"_className":"Person","_attributes":["public","final"]},"_methodName":"getDateOfBirth","_attributes":["public"],"_argNames":[],"_argTypes":[],"_returnType":"int","offset":2425}
+)
+)
