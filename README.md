@@ -1,10 +1,12 @@
 # Bachelor of Science in Computer Engineering
-**Dataingeniør (BSc.)**
+**Dataingeniør (BSc.), campus Trondheim**
+
+[Om studiet / About the program](https://www.ntnu.no/studier/bidata)
 
 **Norges teknisk-naturvitenskapelige universitet (NTNU)**
 *Norwegian University of Science and Technology*
 
-All code and artwork in this repository are licensed under the GNU General Public License v3, unless otherwise stated. If any artwork or images originate from someone other than myself, those files are under the license of their respective originators. These files are used under the Fair Use assumption. However, if you recognize your artwork and wish to have it removed, please let me know, and I will be happy to comply.
+All code and artwork in this repository are licensed under the GNU General Public License v3, unless otherwise stated. If any artwork or images originate from someone other than myself, those files are under the license of their respective originators. These files are used under the Fair Use assumption. However, if you recognize your work and wish to have it removed, please let me know, and I will be happy to comply.
 
 ## Index
 
