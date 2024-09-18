@@ -11,12 +11,12 @@ All code and artwork in this repository are licensed under the GNU General Publi
 ### Semester 01, Fall 2022
 
 - **[INGT-1001](/edu-ntnu-ingt1001)** - Ingeniørfaglig innføringsemne (*Introduction to Engineering*)
-- **[IDATT-1001](/edu-ntnu-idatt1001)** - Programmering 1 - Java (*Programming 1 - Java*)
+- **[IDATT-1001](/edu-ntnu-idatt1001)** - Programmering 1 (*Programming 1*) - Java
 
 ### Semester 02, Spring 2023
 
-- **[IDATT-2001](/edu-ntnu-idatt2001)** - Programmering 2 - Java (*Programming 2 - Java*)
-- **[IDATT-1002](/edu-ntnu-idatt1002)** - Systemutvikling 1 (*System Development 1*)
+- **[IDATT-2001](/edu-ntnu-idatt2001)** - Programmering 2 (*Programming 2*)
+- **[IDATT-1002](/edu-ntnu-idatt1002)** - Systemutvikling 1 (*System Development 1*) - Java
 
 ------
 
