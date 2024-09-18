@@ -1,5 +1,5 @@
 # Bachelor of Science in Computer Engineering
-**Dataingeniør (BSc.)
+**Dataingeniør (BSc.)**
 
 **Field of study:** System Development (campus Trondheim)
 
