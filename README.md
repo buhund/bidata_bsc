@@ -1,5 +1,7 @@
 # Bachelor of Science in Computer Engineering
-**Dataingeniør (BSc.), campus Trondheim**
+**Dataingeniør (BSc.)
+
+**Field of study:** System Development (campus Trondheim)
 
 [Om studiet / About the program](https://www.ntnu.no/studier/bidata)
 
